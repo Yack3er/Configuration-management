@@ -40,8 +40,7 @@ echo "+${line}+"
 echo "| ${text} |"
 echo "+${line}+"
 ```
-PHOTO HERE.
-Перед отправкой решения проверьте его в ShellCheck на предупреждения.
+![prac3](https://github.com/user-attachments/assets/2ddb887a-a0cb-4dd7-8998-04d31a42d2e1)
 
 ## Задача 4
 
